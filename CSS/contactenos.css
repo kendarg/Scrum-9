@@ -1,0 +1,14 @@
+:root{
+    --verde: #006847;
+    --azul: #003366;
+    --dorado: #F4C430;
+    /* Titulos */
+    --blanco: #FFFFFF;
+    --gris: #F5F5F5;
+    /* fondo */
+    --negro: #222222;
+}
+
+.container-form{
+    border: 2px solid black;
+}
