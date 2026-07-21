@@ -8,6 +8,7 @@
 }
 
 footer {
+  margin: 10px;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -17,6 +18,7 @@ footer {
   color: var(--blanco);
   padding: 2rem;
   border-top: 4px solid var(--dorado);
+  border-radius: 8px;
 }
 
 footer h3 {
@@ -35,7 +37,7 @@ footer h4 {
 }
 
 footer ul {
-  list-style-type: square;
+  list-style-type: none;
   padding-left: 1.2rem;
   margin-top: 0.5rem;
 }
